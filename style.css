@@ -1,0 +1,29 @@
+.guyn {
+    background-color: blue;
+    background-color: #454545;
+    background-color: blanchedalmond;
+    background-color: rgb(14, 17, 77);
+}
+
+.color {
+    background-color: aqua;
+    background-color: rgb(14, 17, 77);
+}
+
+.div {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.newdiv {
+    width: 400px;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+}
